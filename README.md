@@ -11,7 +11,7 @@ Hello, I’m Jelita Sukawati, Front-end Developer and UX / UI Designer Based in 
 - **1 Year** of Experience
 - **0 Clients** Worldwide
 
-[Download C.V](link_to_cv.pdf)
+[Download C.V](assets/src/CV_ATS_Jelita.pdf)
 
 ## ABOUT US
 Creativity above all. Just an awesome idea.
